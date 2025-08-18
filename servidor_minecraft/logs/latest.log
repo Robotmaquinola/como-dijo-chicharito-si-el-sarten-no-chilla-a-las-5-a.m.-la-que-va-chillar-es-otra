@@ -2361,3 +2361,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:40:07] [Server thread/INFO]: Pinlinga has made the advancement [This Must be a Sign!]
 [22:40:12] [Server thread/INFO]: Robotmaquinola has made the advancement [This Must be a Sign!]
 [22:40:34] [Server thread/INFO]: Pinlinga has made the advancement [Gravedigger]
+[22:41:21] [Server thread/INFO]: Robotmaquinola has made the advancement [Gravedigger]
+[22:41:29] [Worker-Main-10/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[22:41:31] [Worker-Main-2/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[22:43:42] [Server thread/INFO]: Pinlinga blew up
+[22:43:42] [Server thread/INFO]: Created new backpack backup file for Pinlinga with unique ID travelersbackpack.standard_18.08.2025-22.43.42.dat
+[22:43:48] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
+[22:44:54] [Server thread/INFO]: Robotmaquinola has made the advancement [Penteconter]
+[22:46:30] [Server thread/INFO]: Pinlinga claimed a grave belonging to Pinlinga at 213, 33, 647, minecraft:overworld
+[22:47:02] [Server thread/INFO]: Pinlinga has made the advancement [Penteconter]
+[22:47:28] [Server thread/INFO]: Pinlinga has made the advancement [Heart of the Machine]
+[22:48:19] [Server thread/INFO]: Pinlinga was blown up by Pinlinga
+[22:48:19] [Server thread/INFO]: Created new backpack backup file for Pinlinga with unique ID travelersbackpack.standard_18.08.2025-22.48.19.dat
+[22:48:21] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
