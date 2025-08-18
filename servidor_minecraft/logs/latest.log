@@ -2515,3 +2515,27 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 69 out of bounds for lengt
 [02:27:34] [Server thread/INFO]: Pinlinga left the game
 [02:27:34] [Server thread/INFO]: remove player wand
 [02:27:34] [Server thread/INFO]: Updating all forceload tickets for 4bbffe0e-936b-3434-b06c-2222f185d675
+[02:53:55] [Server thread/INFO]: [Handshake] Sending channel query
+[02:53:55] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[02:53:55] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[02:53:55] [Server thread/INFO]: Robotmaquinola[/127.30.90.156:39973] logged in with entity id 1331 at (72.5, 64.0, -47.5)
+[02:53:55] [Server thread/INFO]: Sending server config values to client
+[02:53:55] [Server thread/INFO]: Syncing config to Robotmaquinola (2d7361c4-e18f-38fe-89c0-a91602b6770a)
+[02:53:56] [Server thread/INFO]: Loading config from file...
+[02:53:56] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:53:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:53:56] [Server thread/INFO]: Robotmaquinola joined the game
+[02:53:56] [Server thread/INFO]: Loading Configs for Sortilege
+[02:53:56] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:53:56] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:53:56] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:53:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:53:56] [Server thread/INFO]: Updating all forceload tickets for 2d7361c4-e18f-38fe-89c0-a91602b6770a
+[02:53:56] [Server thread/INFO]: PLAYER_JOIN
+[02:53:56] [Server thread/INFO]: add_player wand
+[02:53:56] [Server thread/INFO]: config sent
+[02:53:56] [Server thread/INFO]: Robotmaquinola has made the advancement [Mobs of Mythology]
+[02:53:58] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[02:54:02] [Netty Epoll Server IO #2/INFO]: Channel update: Robotmaquinola -> default
+[02:54:02] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Robotmaquinola. Claiming: GRAVE / Robbing: INVENTORY
+[02:54:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robotmaquinola accepted server config.
