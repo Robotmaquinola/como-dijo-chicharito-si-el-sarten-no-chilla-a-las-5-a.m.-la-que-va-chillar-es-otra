@@ -2287,3 +2287,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 265469770 out of bounds fo
 [21:56:55] [Server thread/INFO]: Pinlinga has made the advancement [Amateur Archaeologist]
 [21:57:27] [Server thread/INFO]: Pinlinga has made the advancement [The Beginning of An Adventure]
 [21:57:27] [Server thread/INFO]: Pinlinga has made the advancement [Arghh, Where be Me Ship?]
+[22:01:48] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[22:01:48] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[22:01:48] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[22:04:30] [Server thread/INFO]: Pinlinga has made the advancement [Not Today, Thank You]
+[22:06:48] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos class_2338{x=53, y=76, z=645}
+[22:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[22:07:19] [Server thread/INFO]: Pinlinga has made the advancement [An Ancient Tomb]
+[22:07:20] [Server thread/INFO]: Robotmaquinola has made the advancement [An Ancient Tomb]
+[22:07:53] [Worker-Main-18/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[22:07:53] [Worker-Main-18/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[22:07:53] [Worker-Main-18/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
