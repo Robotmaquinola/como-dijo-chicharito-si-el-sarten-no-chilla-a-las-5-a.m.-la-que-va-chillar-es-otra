@@ -112,8 +112,11 @@
     "criteria": {
       "mauve_hills": "2025-08-18 21:18:25 +0000",
       "dry_bushland": "2025-08-18 21:23:37 +0000",
+      "steppe": "2025-08-18 21:44:15 +0000",
+      "rocky_reef": "2025-08-18 21:38:04 +0000",
       "grassy_beach": "2025-08-18 21:19:27 +0000",
-      "rocky_meadow": "2025-08-18 02:53:56 +0000"
+      "rocky_meadow": "2025-08-18 02:53:56 +0000",
+      "towering_cliffs": "2025-08-18 21:43:10 +0000"
     },
     "done": false
   },
@@ -141,8 +144,11 @@
     "criteria": {
       "mauve_hills": "2025-08-18 21:18:25 +0000",
       "dry_bushland": "2025-08-18 21:23:37 +0000",
+      "steppe": "2025-08-18 21:44:15 +0000",
+      "rocky_reef": "2025-08-18 21:38:04 +0000",
       "grassy_beach": "2025-08-18 21:19:27 +0000",
-      "rocky_meadow": "2025-08-18 02:53:56 +0000"
+      "rocky_meadow": "2025-08-18 02:53:56 +0000",
+      "towering_cliffs": "2025-08-18 21:43:10 +0000"
     },
     "done": false
   },
@@ -932,6 +938,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-18 21:41:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
@@ -1232,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-18 21:41:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
@@ -1277,6 +1295,12 @@
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-18 21:44:33 +0000"
     },
     "done": true
   },
@@ -1520,6 +1544,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-08-18 21:45:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-08-18 21:23:45 +0000"
@@ -1733,7 +1763,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-18 21:19:04 +0000",
-      "golden_apple": "2025-08-18 21:36:23 +0000"
+      "golden_apple": "2025-08-18 21:36:23 +0000",
+      "cod": "2025-08-18 21:42:18 +0000"
     },
     "done": false
   },
@@ -2076,6 +2107,12 @@
   "mcdw:recipes/crossbows/crossbow_burst": {
     "criteria": {
       "has_string": "2025-08-18 21:35:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-18 21:44:33 +0000"
     },
     "done": true
   },
@@ -2559,6 +2596,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-18 21:41:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_chair": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
@@ -3018,6 +3061,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-18 21:43:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
@@ -3171,6 +3220,12 @@
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-18 21:27:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-18 21:41:54 +0000"
     },
     "done": true
   },
@@ -3642,6 +3697,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-18 21:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-08-18 21:20:51 +0000"
@@ -3813,6 +3874,12 @@
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-08-18 21:25:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-08-18 21:44:41 +0000"
     },
     "done": true
   },
@@ -4146,6 +4213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-18 21:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-18 21:23:34 +0000"
@@ -4220,6 +4293,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-18 21:43:28 +0000",
       "minecraft:guardian": "2025-08-18 21:29:41 +0000",
       "minecraft:spider": "2025-08-18 21:21:12 +0000",
       "minecraft:zombie": "2025-08-18 21:19:21 +0000"
@@ -4283,6 +4357,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-18 21:27:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-18 21:41:54 +0000"
     },
     "done": true
   },
@@ -4350,6 +4430,12 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-08-18 21:23:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-18 21:41:28 +0000"
     },
     "done": true
   },
