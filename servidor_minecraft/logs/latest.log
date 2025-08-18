@@ -2178,3 +2178,12 @@ BCLib - The End  BiomeSource (77260f88)
 [21:25:07] [Server thread/INFO]: Robotmaquinola has made the advancement [Getting an Upgrade]
 [21:26:12] [Server thread/INFO]: Robotmaquinola has made the advancement ['X' Marks the Spot]
 [21:29:41] [Server thread/INFO]: Pinlinga has made the advancement [Stone Age]
+[21:29:48] [Server thread/INFO]: Robotmaquinola has made the advancement [Isn't It Iron Pick]
+[21:29:50] [Server thread/INFO]: Robotmaquinola was slain by Guardian
+[21:29:53] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Robotmaquinola accepted server config.
+[21:30:41] [Server thread/INFO]: Robotmaquinola claimed a grave belonging to Robotmaquinola at -9, 57, 86, minecraft:overworld
+[21:35:33] [Server thread/INFO]: Robotmaquinola has made the advancement [Archer´s Paths]
+[21:36:05] [Server thread/INFO]: Pinlinga has made the advancement [Suit Up]
+[21:37:51] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[21:39:04] [Server thread/INFO]: Pinlinga has made the advancement [Archer´s Paths]
