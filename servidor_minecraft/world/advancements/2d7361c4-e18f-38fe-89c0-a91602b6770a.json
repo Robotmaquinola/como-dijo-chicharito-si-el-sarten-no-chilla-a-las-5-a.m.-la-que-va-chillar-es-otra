@@ -756,6 +756,18 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-18 22:57:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-08-18 23:03:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_water_bucket": {
     "criteria": {
       "has_water_bucket": "2025-08-18 21:25:17 +0000"
@@ -831,6 +843,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_brown": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-08-18 22:59:35 +0000"
     },
     "done": true
   },
@@ -1140,9 +1158,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-18 22:57:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-18 21:23:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-18 22:59:35 +0000"
     },
     "done": true
   },
@@ -1707,6 +1737,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-08-18 21:23:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
@@ -2418,6 +2454,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-08-18 22:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-08-18 21:27:01 +0000"
@@ -2950,6 +2992,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-18 22:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-18 21:56:25 +0000"
@@ -3001,6 +3049,12 @@
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-08-18 21:47:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-18 22:57:20 +0000"
     },
     "done": true
   },
@@ -3103,6 +3157,12 @@
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
@@ -3313,6 +3373,12 @@
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/brew_glistering_honey_crystal_block": {
+    "criteria": {
+      "brew_glistering_honey_crystal_block": "2025-08-18 22:57:24 +0000"
     },
     "done": true
   },
@@ -4192,6 +4258,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-18 22:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-18 22:33:30 +0000"
@@ -4579,6 +4651,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-18 23:01:45 +0000"
     },
     "done": true
   },
@@ -5352,6 +5430,12 @@
   "mcda:recipes/base_armors/dark_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-18 21:47:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
@@ -7067,6 +7151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-18 22:59:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-08-18 21:44:41 +0000"
@@ -7112,6 +7202,12 @@
   "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-18 21:27:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-08-18 22:58:56 +0000"
     },
     "done": true
   },
@@ -7520,6 +7616,12 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-08-18 21:47:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-08-18 22:58:56 +0000"
     },
     "done": true
   },
@@ -8068,6 +8170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-18 21:22:34 +0000",
@@ -8408,6 +8516,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-18 21:23:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-08-18 22:59:35 +0000"
     },
     "done": true
   },
@@ -8783,6 +8897,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-18 21:23:58 +0000"
@@ -8882,6 +9002,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-08-18 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
@@ -9107,6 +9233,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-18 22:53:22 +0000"
@@ -9254,6 +9386,12 @@
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-18 22:02:41 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
@@ -9419,9 +9557,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-08-18 23:04:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-08-18 22:45:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-18 22:57:20 +0000"
     },
     "done": true
   },
@@ -9506,6 +9656,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-18 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
+    "criteria": {
+      "has_black_wool": "2025-08-18 23:04:24 +0000"
     },
     "done": true
   },
