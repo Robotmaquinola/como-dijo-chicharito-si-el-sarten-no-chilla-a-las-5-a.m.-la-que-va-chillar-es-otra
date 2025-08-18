@@ -1,0 +1,17 @@
+{
+	id: "4bbffe0e-936b-3434-b06c-2222f185d675"
+	type: "player"
+	player_name: "Pinlinga"
+	ranks: {
+		4bbffe0e-936b-3434-b06c-2222f185d675: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pinlinga"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
