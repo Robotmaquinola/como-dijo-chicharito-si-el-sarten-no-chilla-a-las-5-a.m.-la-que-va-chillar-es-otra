@@ -2345,3 +2345,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [22:16:32] [Server thread/INFO]: Robotmaquinola has made the advancement [Close Quarters]
+[22:22:05] [Server thread/INFO]: Robotmaquinola has made the advancement [Cosmic Fury]
+[22:22:30] [Server thread/INFO]: CLEARED TEMPLE AT class_2338{x=144, y=0, z=512}
+[22:22:30] [Server thread/INFO]: Robotmaquinola has completed the challenge [Eternal Slumber]
+[22:23:04] [Server thread/INFO]: Pinlinga has made the advancement [Diamonds!]
+[22:23:25] [Server thread/INFO]: Robotmaquinola has made the advancement [Diamonds!]
