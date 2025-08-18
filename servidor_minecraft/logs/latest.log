@@ -2374,3 +2374,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [22:48:19] [Server thread/INFO]: Pinlinga was blown up by Pinlinga
 [22:48:19] [Server thread/INFO]: Created new backpack backup file for Pinlinga with unique ID travelersbackpack.standard_18.08.2025-22.48.19.dat
 [22:48:21] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
+[22:51:05] [Server thread/INFO]: Pinlinga claimed a grave belonging to Pinlinga at 216, 50, 646, minecraft:overworld
+[22:53:17] [Server thread/WARN]: Boat (vehicle of Robotmaquinola) moved wrongly! 0.26833003764988916
+[22:53:17] [Server thread/WARN]: Boat (vehicle of Robotmaquinola) moved wrongly! 0.390569956904983
+[22:53:17] [Server thread/WARN]: Boat (vehicle of Robotmaquinola) moved wrongly! 0.4924429875923124
+[22:53:17] [Server thread/WARN]: Boat (vehicle of Robotmaquinola) moved wrongly! 0.5115936437175606
+[22:53:17] [Server thread/WARN]: Boat (vehicle of Robotmaquinola) moved wrongly! 0.547741718090947
+[22:54:02] [Server thread/INFO]: Pinlinga has made the advancement [Cover Me In Emeralds]
+[22:54:11] [Server thread/INFO]: Robotmaquinola has made the advancement [The Beginning of An Adventure]
+[22:54:11] [Server thread/INFO]: Robotmaquinola has made the advancement [Cover Me In Emeralds]
+[22:55:01] [Server thread/INFO]: Pinlinga has made the advancement [Forbidden Fruit]
+[22:57:24] [Server thread/INFO]: Robotmaquinola has made the advancement [Cheating Chances!]
+[22:57:24] [Server thread/INFO]: Robotmaquinola has made the advancement [Local Brewery]
