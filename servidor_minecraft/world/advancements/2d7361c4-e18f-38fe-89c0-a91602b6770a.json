@@ -1,4 +1,16 @@
 {
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-08-18 02:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2025-08-18 02:53:56 +0000"
@@ -81,6 +93,12 @@
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_great_axeblade": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -219,9 +237,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/emerald_gear_leggings": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -264,6 +300,12 @@
   "techreborn:recipes/centrifuge/bread": {
     "criteria": {
       "has_bread": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -312,6 +354,18 @@
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -382,6 +436,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/emerald_gear_chestplate": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2025-08-18 02:53:56 +0000"
@@ -432,6 +492,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
       "has_wpt": "2025-08-18 02:53:56 +0000",
@@ -456,6 +522,12 @@
     "criteria": {
       "has_wit": "2025-08-18 02:53:56 +0000",
       "has_wpt": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-18 02:58:05 +0000"
     },
     "done": true
   },
@@ -485,10 +557,22 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/helium_plasma": {
     "criteria": {
       "has_helium3": "2025-08-18 02:53:56 +0000",
       "has_deuterium": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -511,6 +595,18 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-08-18 02:53:56 +0000"
@@ -526,6 +622,18 @@
   "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
     "criteria": {
       "has_melon_slice": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_boots": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
