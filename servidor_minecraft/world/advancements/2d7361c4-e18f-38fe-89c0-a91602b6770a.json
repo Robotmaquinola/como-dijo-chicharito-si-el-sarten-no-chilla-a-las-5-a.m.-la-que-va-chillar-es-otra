@@ -1,16 +1,4 @@
 {
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_by_something": "2025-08-18 02:58:05 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/emerald_gear_helmet": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2025-08-18 02:53:56 +0000"
@@ -93,12 +81,6 @@
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_great_axeblade": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -237,27 +219,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/emerald_gear_leggings": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -300,12 +264,6 @@
   "techreborn:recipes/centrifuge/bread": {
     "criteria": {
       "has_bread": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -354,18 +312,6 @@
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -436,12 +382,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/emerald_gear_chestplate": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2025-08-18 02:53:56 +0000"
@@ -492,12 +432,6 @@
     },
     "done": true
   },
-  "mcdw:recipes/swords/sword_hawkbrand": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
       "has_wpt": "2025-08-18 02:53:56 +0000",
@@ -522,12 +456,6 @@
     "criteria": {
       "has_wit": "2025-08-18 02:53:56 +0000",
       "has_wpt": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-08-18 02:58:05 +0000"
     },
     "done": true
   },
@@ -557,22 +485,10 @@
     },
     "done": true
   },
-  "mcdw:recipes/bows/bow_phantom_bow": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/fusion_reactor/helium_plasma": {
     "criteria": {
       "has_helium3": "2025-08-18 02:53:56 +0000",
       "has_deuterium": "2025-08-18 02:53:56 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
     },
     "done": true
   },
@@ -595,18 +511,6 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/gemstone_green": {
-    "criteria": {
-      "has_emerald": "2025-08-18 02:58:22 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-08-18 02:53:56 +0000"
@@ -625,6 +529,109 @@
     },
     "done": true
   },
+  "techreborn:recipes/fusion_reactor/iridium_ore": {
+    "criteria": {
+      "has_lithium": "2025-08-18 02:53:56 +0000",
+      "has_wolframium": "2025-08-18 02:53:56 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-08-18 02:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-18 02:58:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_great_axeblade": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_leggings": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_chestplate": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2025-08-18 02:58:22 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_boots": {
     "criteria": {
       "has_emerald": "2025-08-18 02:58:22 +0000"
@@ -637,10 +644,171 @@
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/iridium_ore": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lithium": "2025-08-18 02:53:56 +0000",
-      "has_wolframium": "2025-08-18 02:53:56 +0000"
+      "has_lots_of_items": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-08-18 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-08-18 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-08-18 21:13:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-08-18 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-08-18 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-18 21:14:33 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-08-18 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2025-08-18 21:14:04 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball": {
+    "criteria": {
+      "has_plantball_material": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-08-18 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/dirt": {
+    "criteria": {
+      "has_dirt": "2025-08-18 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-18 21:14:26 +0000"
     },
     "done": true
   },
