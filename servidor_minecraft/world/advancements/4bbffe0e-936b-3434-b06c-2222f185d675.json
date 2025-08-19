@@ -518,6 +518,8 @@
       "dry_bushland": "2025-08-18 21:24:10 +0000",
       "steppe": "2025-08-18 21:44:04 +0000",
       "pine_taiga": "2025-08-18 23:12:31 +0000",
+      "bayou": "2025-08-19 05:32:49 +0000",
+      "willow_forest": "2025-08-19 05:26:07 +0000",
       "rocky_reef": "2025-08-18 21:42:07 +0000",
       "grassy_beach": "2025-08-18 21:22:04 +0000",
       "rocky_meadow": "2025-08-18 01:07:05 +0000",
@@ -537,6 +539,8 @@
       "dry_bushland": "2025-08-18 21:24:10 +0000",
       "steppe": "2025-08-18 21:44:04 +0000",
       "pine_taiga": "2025-08-18 23:12:31 +0000",
+      "bayou": "2025-08-19 05:32:49 +0000",
+      "willow_forest": "2025-08-19 05:26:07 +0000",
       "rocky_reef": "2025-08-18 21:42:07 +0000",
       "grassy_beach": "2025-08-18 21:22:04 +0000",
       "rocky_meadow": "2025-08-18 01:07:05 +0000",
@@ -615,6 +619,7 @@
       "cooked_porkchop": "2025-08-18 23:16:25 +0000",
       "porkchop": "2025-08-18 23:15:18 +0000",
       "bread": "2025-08-18 21:21:26 +0000",
+      "golden_apple": "2025-08-19 05:35:00 +0000",
       "rotten_flesh": "2025-08-18 21:21:10 +0000",
       "salmon": "2025-08-18 21:32:57 +0000",
       "golden_carrot": "2025-08-18 21:18:34 +0000",
@@ -922,6 +927,8 @@
       "minecraft:river": "2025-08-18 21:20:46 +0000",
       "minecraft:forest": "2025-08-18 23:08:45 +0000",
       "minecraft:desert": "2025-08-18 21:22:15 +0000",
+      "minecraft:ocean": "2025-08-19 05:32:14 +0000",
+      "minecraft:windswept_savanna": "2025-08-19 05:38:09 +0000",
       "minecraft:warm_ocean": "2025-08-18 21:26:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-18 22:52:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-18 23:12:12 +0000",
@@ -10495,6 +10502,258 @@
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-08-18 23:36:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-08-19 05:38:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2025-08-19 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_emerald": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/chungus_emerald_block": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2025-08-19 05:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-08-19 05:40:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crystal_ball": {
+    "criteria": {
+      "has_item": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "thaumon:recipes/misc/mutagen_from_amethyst_shard_stonecutting": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-19 05:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-19 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-19 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-08-19 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-08-19 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-19 05:41:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-19 05:49:34 +0000"
     },
     "done": true
   },
