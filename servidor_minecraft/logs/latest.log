@@ -2142,3 +2142,7 @@ BCLib - Nether BiomeSource (7eaad90e)
 [05:01:32] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
 [05:04:34] [Server thread/INFO]: Made Pinlinga a server operator
 [05:04:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
+[05:08:47] [Server thread/INFO]: Pinlinga lost connection: Disconnected
+[05:08:47] [Server thread/INFO]: Pinlinga left the game
+[05:08:47] [Server thread/INFO]: remove player wand
+[05:08:47] [Server thread/INFO]: Updating all forceload tickets for 4bbffe0e-936b-3434-b06c-2222f185d675
